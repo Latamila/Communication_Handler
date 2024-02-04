@@ -16,5 +16,5 @@ Profissionais responsáveis pela criação de `Communication Handlers` podem inc
 
 Esses profissionais geralmente têm conhecimentos em programação, arquitetura de software, redes de computadores e, dependendo do contexto, em tecnologias específicas relacionadas à comunicação, como sockets, protocolos de comunicação, WebSockets, entre outros.
 
-Confira este Communication Handler feito em Python.
+Confira o Communication Handler feito em Python. Este projeto está privado. Cqso queira a solução por favor, me envie um email: camilaaeromoca@gmail.com. Sera um prazer ajudar! 
 
